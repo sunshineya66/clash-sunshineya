@@ -1,0 +1,10 @@
+# 起飞 - 自定义规则
+# 格式示例：
+# DOMAIN-SUFFIX,example.com
+# DOMAIN-KEYWORD,google
+# DOMAIN,www.example.com
+# IP-CIDR,192.168.1.0/24
+
+DOMAIN-SUFFIX,random.ouonet.org
+DOMAIN-SUFFIX,ouonetwork.com
+DOMAIN-SUFFIX,良心云.com
