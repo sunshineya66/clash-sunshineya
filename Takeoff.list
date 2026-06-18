@@ -2,6 +2,7 @@
 # 格式示例：
 # DOMAIN-SUFFIX,example.com
 # DOMAIN-KEYWORD,google
+# DOMAIN-KEYWORD,huggingface
 # DOMAIN,www.example.com
 # IP-CIDR,192.168.1.0/24
 
@@ -9,3 +10,5 @@ DOMAIN-SUFFIX,random.ouonet.org
 DOMAIN-SUFFIX,ouonetwork.com
 DOMAIN-SUFFIX,良心云.com
 DOMAIN-SUFFIX,evoxt.com
+DOMAIN-KEYWORD,huggingface
+DOMAIN-KEYWORD,civitai
