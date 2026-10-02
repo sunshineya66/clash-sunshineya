@@ -1,0 +1,9 @@
+# AI - 自定义规则
+# 策略组由 af.ini 中的 ruleset=✨ AI 指定
+
+DOMAIN-SUFFIX,ohmygpt.com
+DOMAIN-SUFFIX,ohmycdn.com
+DOMAIN-SUFFIX,shuaiapi.com
+DOMAIN-KEYWORD,antigravity
+DOMAIN-KEYWORD,tokenharbor
+DOMAIN-KEYWORD,commandcode
